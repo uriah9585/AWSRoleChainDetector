@@ -17,3 +17,4 @@ Found juggling role: ['arn:aws:iam::855543857173:role/RoleA', 'arn:aws:iam::8555
 
 # Show Graph
 Add the flag `--graph` to show the chain over graph
+![Screenshot](graph_example.jpg)
